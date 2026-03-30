@@ -31,7 +31,9 @@ Generates a personalized open-source statement based on user input.
 ##Steps to Execute the Scripts-
 
 1.Open the terminal (Linux or WSL)
+
 2.Navigate to your project directory
+
 3.Execute the following commands:
 
 ```bash
